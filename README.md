@@ -17,7 +17,6 @@ Durante o bootcamp, exploramos:
 - 📊 Criação de relatórios eficientes e visualmente organizados
 - 🤖 Aplicação de Inteligência Artificial no tratamento e exibição de dados
 - 🧾 Projetos como:
-  - Organizador de Imposto de Renda
   - Controlador de Investimentos
 
 ---
@@ -33,7 +32,4 @@ Durante o bootcamp, exploramos:
 ---
 #### Projetos desenvolvidos
 
-- [Criando uma ferramenta de controle de investimentos com Excel](/projeto_investimentos/README.md)
-- [Criando um Organizador de Declaração de Imposto de Renda](/organizador_declaracoes_IR/README.md)
-- [Criando Base de Dados em SQL e Consultas usando COPILOT](/projeto_bd_sql_copilot/README.md)
-- [Criando um Dashboard de Vendas do Xbox com Excel](/projeto_dashboard_vendas_xbox/README.md)
+- [Criando uma ferramenta de controle de investimentos com Excel](/Simulador-Investimento/README.md)
