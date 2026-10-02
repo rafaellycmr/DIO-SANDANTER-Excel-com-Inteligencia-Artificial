@@ -1,7 +1,5 @@
 # 📊 Simulador de Investimentos em Fundos Imobiliários
 
-Projeto desenvolvido como Desafio de Projeto do bootcamp **"Reclame AQUI - Dados e IA na Prática"**, oferecido pela [Digital Innovation One (DIO)](https://www.dio.me/).
-
 ## 🎯 Objetivo
 
 Fundos de Investimento Imobiliário (FIIs) são uma das formas mais populares de investimento em renda variável no Brasil, mas quem está começando costuma ter as mesmas dúvidas: *quanto investir por mês? por quanto tempo? qual retorno esperar?*
